@@ -53,5 +53,5 @@ def run_process():
         t += 1
 
 if __name__ == '__main__':
-    print("欢迎来到Hacking8信息流邀请码挑战题！\n本题一共有五关，通关前四关会得到hacking8的邀请码，通关第五关可以加我微信，拉你到hacking8交流群～\n")
+    print("欢迎来到Hacking8信息流邀请码挑战题！\n本题一共有五关，通关前四关会得到hacking8的邀请码")
     run_process()
