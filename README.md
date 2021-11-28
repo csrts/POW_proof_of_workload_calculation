@@ -1,5 +1,8 @@
 # POW_proof_of_workload_calculation
 POW工作量证明计算 for python
+
+**The current tested version of python is 3.9**
+
 ## Using
 
 ```bash
