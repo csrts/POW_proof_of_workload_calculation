@@ -16,3 +16,4 @@ $ pip install -r requirements.txt
 $ python part-4.py
 ```
 
+### Support only GPU!!!
