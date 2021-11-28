@@ -5,14 +5,14 @@ POW工作量证明计算 for python
 ```bash
 #clone repository
 
-git clone https://github.com/csrts/POW_proof_of_workload_calculation.git 	
+$ git clone https://github.com/csrts/POW_proof_of_workload_calculation.git 	
 
 #Use pip to install the modules in the requirements
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 # run py scripts
 
-python part-4.py
+$ python part-4.py
 ```
 
